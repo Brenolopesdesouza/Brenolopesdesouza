@@ -71,25 +71,20 @@
 <!-- PROJETOS -->
 <h3 align="center">projetos escolares</h3>
 
-<div align="center">
-
-<a href="https://github.com/Yuykkk/Pokedex">
-  <img src="https://img.shields.io/badge/POKEDEX-PROJETO%20ESCOLAR-000000?style=for-the-badge&logo=github&logoColor=ff1744" alt="Pokedex - projeto escolar" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Yuykkk/Pokedex">
-  <img src="https://img.shields.io/badge/ABRIR%20REPOSITORIO-ff1744?style=for-the-badge&labelColor=000000&logo=github&logoColor=ff1744" alt="Abrir repositorio" />
-</a>
-
-<br><br>
-
-<p>
-  Aplicacao web para pesquisar Pokemon e consultar informacoes.
+<p align="center">
+  <a href="https://github.com/Yuykkk/Pokedex">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Yuykkk&repo=Pokedex&hide_border=true&bg_color=0d1117&title_color=ff1744&text_color=ffffff&icon_color=ff1744"
+      alt="Repositorio Pokedex"
+    />
+  </a>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Yuykkk/Pokedex">
+    <img src="https://img.shields.io/badge/ABRIR%20REPOSITORIO-ff1744?style=for-the-badge&labelColor=000000&logo=github&logoColor=ff1744" alt="Abrir repositorio" />
+  </a>
+</p>
 
 ---
 
