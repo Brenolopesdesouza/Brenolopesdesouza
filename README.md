@@ -9,9 +9,21 @@
 <!--
   COLE O LINK DO GIF AQUI:
   Troque apenas o valor do src abaixo pelo link direto do GIF que você quiser usar.
-  Exemplo: src="https://site.com/seu-gif.gif"
+
+  Formatos que funcionam bem:
+  - https://i.imgur.com/arquivo.gif
+  - https://i.pinimg.com/originals/.../arquivo.gif
+  - ./assets/banner.gif
+
+  Importante:
+  - Não use link de página, use link direto terminado em .gif.
+  - Não feche a tag antes do width/alt.
+  - Errado: <img src="link.gif" /> width="100%"
+  - Certo:  <img src="link.gif" width="100%" alt="Banner animado" />
 -->
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" />  width="100%"
+<img
+  src="https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif"
+  width="100%"
   alt="Banner animado"
 />
 
