@@ -27,7 +27,7 @@
 
 ---
 
-<h3 align="center">sobre mim</h3>
+<h3 align="center">Sobre Mim</h3>
 
 <p align="center">
   Estou estudando web, Python e automa&ccedil;&atilde;o.<br>
@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="center">stack</h3>
+<h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=b00020" alt="HTML" />
@@ -58,7 +58,7 @@
 
 ---
 
-<h3 align="center">projetos</h3>
+<h3 align="center">Projetos</h3>
 
 <p align="center">
   <a href="https://github.com/Yuykkk/Pokedex">
@@ -68,7 +68,7 @@
 
 ---
 
-<h3 align="center">em evolu&ccedil;&atilde;o</h3>
+<h3 align="center">Em Evolu&ccedil;&atilde;o</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FRONT--END-000000?style=for-the-badge&logo=react&logoColor=b00020" alt="Front-end" />
@@ -78,30 +78,7 @@
 
 ---
 
-<h3 align="center">fora do c&oacute;digo</h3>
-
-<p align="center">
-  Jogos, filmes/s&eacute;ries e m&uacute;sica tamb&eacute;m aparecem por aqui.
-</p>
-
-<p align="center">
-  <a href="https://yuykk.carrd.co/">
-    <img src="https://img.shields.io/badge/CARRD-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=b00020" alt="Carrd" />
-  </a>
-  <a href="https://open.spotify.com/user/31ne7yzyovjsnlgqw6b3a7elburq?si=190bff1e4fb3407a">
-    <img src="https://img.shields.io/badge/SPOTIFY-000000?style=for-the-badge&logo=spotify&logoColor=b00020" alt="Spotify" />
-  </a>
-  <a href="https://backloggd.com/u/Yuykk/">
-    <img src="https://img.shields.io/badge/BACKLOGGD-000000?style=for-the-badge&logo=gamejolt&logoColor=b00020" alt="Backloggd" />
-  </a>
-  <a href="https://letterboxd.com/yuykk/">
-    <img src="https://img.shields.io/badge/LETTERBOXD-000000?style=for-the-badge&logo=letterboxd&logoColor=b00020" alt="Letterboxd" />
-  </a>
-</p>
-
----
-
-<h3 align="center">contato</h3>
+<h3 align="center">Contato</h3>
 
 <p align="center">
   <a href="https://guns.lol/yuykk">
