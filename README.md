@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.gif" width="720" alt="Banner animado em estilo anime dark" />
+<img src="./assets/banner.gif" width="680" alt="Banner animado em estilo anime dark" />
 
 <br><br>
 
@@ -40,7 +40,15 @@
 
 <p align="center">
   Estou estudando web, Python e automa&ccedil;&atilde;o.<br>
-  Aqui ficam meus projetos da escola e alguns testes que fa&ccedil;o enquanto aprendo.
+  Aqui ficam meus projetos da escola, meus testes e um pouco do que eu curto.
+</p>
+
+<p align="center">
+  <img src="./assets/carrd-mood.jpg" width="520" alt="Imagem no estilo do Carrd" />
+</p>
+
+<p align="center">
+  <i>"O imposs&iacute;vel &eacute; s&oacute; quest&atilde;o de opini&atilde;o"</i>
 </p>
 
 ---
@@ -79,6 +87,33 @@
   <img src="https://img.shields.io/badge/FRONT--END-000000?style=for-the-badge&logo=react&logoColor=b00020" alt="Front-end" />
   <img src="https://img.shields.io/badge/BACK--END-000000?style=for-the-badge&logo=nodedotjs&logoColor=b00020" alt="Back-end" />
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=b00020" alt="Python" />
+</p>
+
+---
+
+<h3 align="center">fora do codigo</h3>
+
+<p align="center">
+  <img src="./assets/carrd-avatar.jpg" width="96" alt="Avatar do Carrd" />
+</p>
+
+<p align="center">
+  Jogos, filmes/s&eacute;ries e m&uacute;sica tamb&eacute;m aparecem por aqui.
+</p>
+
+<p align="center">
+  <a href="https://yuykk.carrd.co/">
+    <img src="https://img.shields.io/badge/CARRD-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=b00020" alt="Carrd" />
+  </a>
+  <a href="https://open.spotify.com/user/31ne7yzyovjsnlgqw6b3a7elburq?si=190bff1e4fb3407a">
+    <img src="https://img.shields.io/badge/SPOTIFY-000000?style=for-the-badge&logo=spotify&logoColor=b00020" alt="Spotify" />
+  </a>
+  <a href="https://backloggd.com/u/Yuykk/">
+    <img src="https://img.shields.io/badge/BACKLOGGD-000000?style=for-the-badge&logo=gamejolt&logoColor=b00020" alt="Backloggd" />
+  </a>
+  <a href="https://letterboxd.com/yuykk/">
+    <img src="https://img.shields.io/badge/LETTERBOXD-000000?style=for-the-badge&logo=letterboxd&logoColor=b00020" alt="Letterboxd" />
+  </a>
 </p>
 
 ---
