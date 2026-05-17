@@ -14,7 +14,6 @@
 <img
   src="https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif"
   width="100%"
-  height="230"
   alt="Banner animado"
 />
 
@@ -59,10 +58,11 @@
 </p>
 
 <!-- SOBRE -->
-<h3 align="center">registro.dev</h3>
+<h3 align="center">sobre mim</h3>
 
 <p align="center">
-  Estudo desenvolvimento web, Python e automação. Este perfil reúne meus estudos, projetos escolares e evolução prática como desenvolvedor.
+  Estudo desenvolvimento web, Python e automação.<br>
+  Este perfil reúne meus estudos, projetos escolares e evolução prática como desenvolvedor.
 </p>
 
 <p align="center">
@@ -87,17 +87,19 @@
 
 <br>
 
-<!-- PROJETO -->
-<h3 align="center">projeto escolar</h3>
+<!-- PROJETOS ESCOLARES -->
+<h3 align="center">projetos escolares</h3>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="520">
+    <td align="left" width="560">
       <a href="https://github.com/Yuykkk/Pokedex">
         <strong>Pokédex</strong>
       </a>
+      <br>
+      <sub>Projeto escolar em desenvolvimento</sub>
       <br><br>
       Aplicação web para pesquisar Pokémon, consultar informações e visualizar cartas TCG.
       <br><br>
