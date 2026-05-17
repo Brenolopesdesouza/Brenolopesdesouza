@@ -12,7 +12,7 @@
   Exemplo: src="https://site.com/seu-gif.gif"
 -->
 <img
-  src="https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif"
+  src="https://i.imgur.com/p7beXjh.gif"
   width="100%"
   alt="Banner animado"
 />
