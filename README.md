@@ -7,7 +7,7 @@
 
 <!-- BANNER ANIMADO -->
 <p align="center">
-  <img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/typing-gif.gif" width="620" alt="Banner animado de digitacao" />
+  <img src="https://i.imgur.com/p7beXjh.gif" width="620" alt="Banner animado de digitacao" />
 </p>
 
 <br>
