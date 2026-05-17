@@ -25,8 +25,8 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Yuykkk&label=VISITAS&color=ff1744&style=for-the-badge" alt="Visitas do perfil" />
-  <img src="https://img.shields.io/badge/APRENDENDO-0d1117?style=for-the-badge&logo=target&logoColor=ff1744" alt="Aprendendo" />
-  <img src="https://img.shields.io/badge/WEB%20%2B%20PYTHON-0d1117?style=for-the-badge&logo=code&logoColor=ff1744" alt="Web e Python" />
+  <img src="https://img.shields.io/badge/STATUS-APRENDENDO-ff1744?style=for-the-badge&labelColor=0d1117&logo=target&logoColor=ffffff" alt="Aprendendo" />
+  <img src="https://img.shields.io/badge/FOCO-WEB%20%2B%20PYTHON-ff1744?style=for-the-badge&labelColor=0d1117&logo=code&logoColor=ffffff" alt="Web e Python" />
   <a href="https://guns.lol/yuykk">
     <img src="https://img.shields.io/badge/CONTATO-ff1744?style=for-the-badge&labelColor=0d1117&logo=firefoxbrowser&logoColor=ffffff" alt="Contato guns.lol/yuykk" />
   </a>
@@ -53,16 +53,20 @@
 
 ---
 
-<h3 align="center">projetos escolares</h3>
+<h3 align="center">projetos</h3>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="520">
+    <td align="center" width="560">
       <strong>Pokedex</strong>
       <br>
-      <sub>Aplicacao web para pesquisar Pokemon e consultar informacoes.</sub>
+      <sub>Projeto web para pesquisar Pokemon e ver informacoes basicas.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=ff1744" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=ff1744" alt="CSS" />
+      <img src="https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=ff1744" alt="JavaScript" />
       <br><br>
       <a href="https://github.com/Yuykkk/Pokedex">
         <img src="https://img.shields.io/badge/VER%20PROJETO-ff1744?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Ver projeto Pokedex" />
@@ -78,9 +82,9 @@
 <h3 align="center">em evolucao</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONT--END-0d1117?style=for-the-badge&logo=react&logoColor=ff1744" alt="Front-end" />
-  <img src="https://img.shields.io/badge/BACK--END-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ff1744" alt="Back-end" />
-  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=ff1744" alt="Python" />
+  <img src="https://img.shields.io/badge/ESTUDANDO-FRONT--END-ff1744?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=ffffff" alt="Front-end" />
+  <img src="https://img.shields.io/badge/PRATICANDO-BACK--END-ff1744?style=for-the-badge&labelColor=0d1117&logo=nodedotjs&logoColor=ffffff" alt="Back-end" />
+  <img src="https://img.shields.io/badge/USANDO-PYTHON-ff1744?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=ffffff" alt="Python" />
 </p>
 
 ---
