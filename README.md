@@ -7,10 +7,7 @@
 
 <!-- BANNER ANIMADO (CORRIGIDO E FUNCIONANDO) -->
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"
-    width="100%"
-    alt="Banner animado"
+  <img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/typing-gif.gif" width="100%" />
   />
 </p>
 
