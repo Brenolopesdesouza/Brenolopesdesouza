@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/carrd-avatar.jpg" width="120" alt="Avatar do Breno" />
+<img src="./assets/avatar.svg" width="140" alt="Avatar do Breno" />
 
 <h1>Breno Lopes</h1>
 
@@ -13,13 +13,6 @@
   <strong>Desenvolvedor em aprendizado</strong><br>
   Front-End | Back-End | Python
 </p>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=B00020&center=true&vCenter=true&width=720&lines=Aprendendo+no+c%C3%B3digo+e+na+pr%C3%A1tica;Projetos+da+escola+e+meus+testes;Front-End%2C+Back-End+e+Python"
-  alt="Typing SVG"
-/>
-
-<br><br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Yuykkk&label=VISITAS&color=b00020&style=for-the-badge" alt="Visitas do perfil" />
@@ -29,8 +22,6 @@
     <img src="https://img.shields.io/badge/CONTATO-000000?style=for-the-badge&labelColor=000000&logo=firefoxbrowser&logoColor=b00020" alt="Contato guns.lol/yuykk" />
   </a>
 </p>
-
-<img src="./assets/banner.gif" width="420" alt="Banner animado em estilo anime dark" />
 
 </div>
 
