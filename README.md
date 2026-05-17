@@ -11,9 +11,11 @@
   Troque apenas o valor do src abaixo pelo link direto do GIF que você quiser usar.
   Exemplo: src="https://site.com/seu-gif.gif"
 -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif" width="100%" height="220"/>
-</p>
+<img
+  src="https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif"
+  width="100%"
+  alt="Banner animado"
+/>
 
 <br><br>
 
@@ -34,11 +36,11 @@
 
 <!-- STATUS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Yuykkk&label=VISITAS&color=ff1744&style=flat-square" alt="Visitas" />
-  <img src="https://img.shields.io/badge/status-em%20aprendizado-0b0b0f?style=flat-square&labelColor=ff1744" alt="Status" />
-  <img src="https://img.shields.io/badge/foco-projetos%20escolares-0b0b0f?style=flat-square&labelColor=ff1744" alt="Foco" />
+  <img src="https://komarev.com/ghpvc/?username=Yuykkk&label=VISITAS&color=ff1744&style=for-the-badge" alt="Visitas" />
+  <img src="https://img.shields.io/badge/STATUS-EM%20APRENDIZADO-000000?style=for-the-badge&logo=target&logoColor=ff1744" alt="Status" />
+  <img src="https://img.shields.io/badge/FOCO-PROJETOS%20ESCOLARES-000000?style=for-the-badge&logo=bookstack&logoColor=ff1744" alt="Foco" />
   <a href="https://guns.lol/yuykk">
-    <img src="https://img.shields.io/badge/contato-guns.lol%2Fyuykk-0b0b0f?style=flat-square&labelColor=ff1744" alt="Contato" />
+    <img src="https://img.shields.io/badge/CONTATO-GUNS.LOL%2FYUYKK-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=ff1744" alt="Contato" />
   </a>
 </p>
 
@@ -64,11 +66,11 @@
 </p>
 
 <p align="center">
-  <code>html</code>
-  <code>css</code>
-  <code>javascript</code>
-  <code>python</code>
-  <code>github</code>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=ff1744" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=ff1744" alt="CSS" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=ff1744" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ff1744" alt="Python" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ff1744" alt="GitHub" />
 </p>
 
 <br>
@@ -92,23 +94,21 @@
 
 <table>
   <tr>
-    <td align="left" width="560">
+    <td align="center" width="620">
       <a href="https://github.com/Yuykkk/Pokedex">
-        <strong>Pokédex</strong>
+        <img src="https://img.shields.io/badge/POKÉDEX-PROJETO%20ESCOLAR-000000?style=for-the-badge&logo=github&logoColor=ff1744" alt="Pokédex - Projeto escolar" />
       </a>
-      <br>
-      <sub>Projeto escolar em desenvolvimento</sub>
+      <br><br>
+      <a href="https://github.com/Yuykkk/Pokedex">
+        <img src="https://img.shields.io/badge/ABRIR%20REPOSITÓRIO-ff1744?style=for-the-badge&labelColor=000000&logo=github&logoColor=ff1744" alt="Abrir repositório" />
+      </a>
       <br><br>
       Aplicação web para pesquisar Pokémon, consultar informações e visualizar cartas TCG.
       <br><br>
-      <img src="https://img.shields.io/badge/HTML5-0b0b0f?style=flat-square&logo=html5&logoColor=ff1744" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-0b0b0f?style=flat-square&logo=css3&logoColor=ff1744" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-0b0b0f?style=flat-square&logo=javascript&logoColor=ff1744" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/PokéAPI-0b0b0f?style=flat-square&logo=pokemon&logoColor=ff1744" alt="PokéAPI" />
-      <br><br>
-      <a href="https://github.com/Yuykkk/Pokedex">
-        <img src="https://img.shields.io/badge/abrir%20repositório-ff1744?style=for-the-badge&labelColor=0b0b0f&logo=github&logoColor=ff1744" alt="Abrir repositório" />
-      </a>
+      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff1744" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff1744" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=ff1744" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/POKÉAPI-000000?style=for-the-badge&logo=pokemon&logoColor=ff1744" alt="PokéAPI" />
     </td>
   </tr>
 </table>
