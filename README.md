@@ -39,8 +39,8 @@
 <h3 align="center">sobre mim</h3>
 
 <p align="center">
-  To estudando web, Python e automacao.<br>
-  Aqui eu vou deixando meus projetos da escola e alguns testes que faco enquanto aprendo.
+  &#10022; To estudando web, Python e automacao.<br>
+  &#8961; Aqui eu deixo meus projetos da escola e uns testes que faco enquanto aprendo.
 </p>
 
 ---
@@ -65,27 +65,11 @@
 
 <h3 align="center">projetos</h3>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="560">
-      <strong>Pokedex</strong>
-      <br>
-      <sub>Projeto web para pesquisar Pokemon e ver informacoes basicas.</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=ff1744" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=ff1744" alt="CSS" />
-      <img src="https://img.shields.io/badge/JS-000000?style=flat-square&logo=javascript&logoColor=ff1744" alt="JavaScript" />
-      <br><br>
-      <a href="https://github.com/Yuykkk/Pokedex">
-        <img src="https://img.shields.io/badge/VER%20PROJETO-000000?style=for-the-badge&labelColor=000000&logo=github&logoColor=ff1744" alt="Ver projeto Pokedex" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Yuykkk/Pokedex">
+    <img src="./assets/pokedex-card.svg" width="680" alt="Card do projeto Pokedex" />
+  </a>
+</p>
 
 ---
 
