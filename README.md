@@ -7,9 +7,8 @@
 <div align="center">
 
 <!-- GIF PRINCIPAL DO PERFIL -->
-<!-- O arquivo já está em: assets/personagem.gif -->
 <img
-  src="./assets/personagem.gif"
+  src="https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif"
   width="100%"
   alt="Banner animado"
 />
