@@ -17,18 +17,18 @@
 </p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=FF1744&center=true&vCenter=true&width=720&lines=Estudando+web%2C+Python+e+automacao;Criando+projetos+escolares+e+portfolio;Evoluindo+um+commit+de+cada+vez"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=FF1744&center=true&vCenter=true&width=720&lines=Aprendendo+no+codigo+e+na+pratica;Projetos+da+escola+e+testes+meus;Front-End%2C+Back-End+e+Python"
   alt="Typing SVG"
 />
 
 <br><br>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Yuykkk&label=VISITAS&color=0d1117&style=for-the-badge" alt="Visitas do perfil" />
-  <img src="https://img.shields.io/badge/STATUS-EM%20APRENDIZADO-0d1117?style=for-the-badge&logo=target&logoColor=ff1744" alt="Status em aprendizado" />
-  <img src="https://img.shields.io/badge/FOCO-WEB%20%7C%20PYTHON-0d1117?style=for-the-badge&logo=code&logoColor=ff1744" alt="Foco em web e Python" />
+  <img src="https://komarev.com/ghpvc/?username=Yuykkk&label=VISITAS&color=ff1744&style=for-the-badge" alt="Visitas do perfil" />
+  <img src="https://img.shields.io/badge/APRENDENDO-0d1117?style=for-the-badge&logo=target&logoColor=ff1744" alt="Aprendendo" />
+  <img src="https://img.shields.io/badge/WEB%20%2B%20PYTHON-0d1117?style=for-the-badge&logo=code&logoColor=ff1744" alt="Web e Python" />
   <a href="https://guns.lol/yuykk">
-    <img src="https://img.shields.io/badge/CONTATO-GUNS.LOL%2FYUYKK-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=ff1744" alt="Contato guns.lol/yuykk" />
+    <img src="https://img.shields.io/badge/CONTATO-ff1744?style=for-the-badge&labelColor=0d1117&logo=firefoxbrowser&logoColor=ffffff" alt="Contato guns.lol/yuykk" />
   </a>
 </p>
 
@@ -39,8 +39,8 @@
 <h3 align="center">sobre mim</h3>
 
 <p align="center">
-  Estudo desenvolvimento web, Python e automacao.<br>
-  Uso este perfil para reunir meus projetos escolares e acompanhar minha evolucao como desenvolvedor.
+  To estudando web, Python e automacao.<br>
+  Aqui eu vou deixando meus projetos da escola e alguns testes que faco enquanto aprendo.
 </p>
 
 ---
@@ -49,14 +49,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,vscode,windows&theme=dark&perline=11" alt="Stack atual" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=ff1744" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=ff1744" alt="CSS" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=ff1744" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=ff1744" alt="Python" />
-  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
 </p>
 
 ---
@@ -73,7 +65,7 @@
       <sub>Aplicacao web para pesquisar Pokemon e consultar informacoes.</sub>
       <br><br>
       <a href="https://github.com/Yuykkk/Pokedex">
-        <img src="https://img.shields.io/badge/ABRIR%20REPOSITORIO-ff1744?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Abrir repositorio Pokedex" />
+        <img src="https://img.shields.io/badge/VER%20PROJETO-ff1744?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="Ver projeto Pokedex" />
       </a>
     </td>
   </tr>
@@ -86,9 +78,9 @@
 <h3 align="center">em evolucao</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONT--END-ESTUDANDO-0d1117?style=for-the-badge&logo=react&logoColor=ff1744" alt="Front-end estudando" />
-  <img src="https://img.shields.io/badge/BACK--END-PRATICANDO-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ff1744" alt="Back-end praticando" />
-  <img src="https://img.shields.io/badge/AUTOMACAO-PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=ff1744" alt="Automacao com Python" />
+  <img src="https://img.shields.io/badge/FRONT--END-0d1117?style=for-the-badge&logo=react&logoColor=ff1744" alt="Front-end" />
+  <img src="https://img.shields.io/badge/BACK--END-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ff1744" alt="Back-end" />
+  <img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=ff1744" alt="Python" />
 </p>
 
 ---
