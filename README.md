@@ -10,6 +10,7 @@
 <img
   src="https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif"
   width="100%"
+  height="220"
   alt="Banner animado"
 />
 
@@ -95,13 +96,20 @@
 
 <p align="center">
   <a href="https://github.com/Yuykkk/Pokedex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuykkk&repo=Pokedex&theme=transparent&hide_border=true&bg_color=00000000&title_color=ff1744&text_color=e5e7eb&icon_color=ff1744" alt="Pokédex" />
+    <img src="https://img.shields.io/badge/POKÉDEX-abrir%20repositório-ff1744?style=for-the-badge&labelColor=000000&logo=github&logoColor=ff1744" alt="Abrir repositório da Pokédex" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Pokédex</strong><br>
-  Aplicação web para pesquisar Pokémon, consultar informações e visualizar cartas TCG.
+  Aplicação web para pesquisar Pokémon,<br>
+  consultar informações e visualizar cartas TCG.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ff1744" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ff1744" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ff1744" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PokéAPI-000000?style=flat-square&logo=pokemon&logoColor=ff1744" alt="PokéAPI" />
 </p>
 
 <br>
