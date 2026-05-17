@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/avatar.svg" width="140" alt="Avatar do Breno" />
+<img src="./assets/avatar.png" width="140" alt="Avatar do Breno" />
 
 <h1>Breno Lopes</h1>
 
