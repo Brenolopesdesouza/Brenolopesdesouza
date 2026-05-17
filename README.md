@@ -5,9 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.gif" width="680" alt="Banner animado em estilo anime dark" />
-
-<br><br>
+<img src="./assets/carrd-avatar.jpg" width="120" alt="Avatar do Breno" />
 
 <h1>Breno Lopes</h1>
 
@@ -32,6 +30,8 @@
   </a>
 </p>
 
+<img src="./assets/banner.gif" width="420" alt="Banner animado em estilo anime dark" />
+
 </div>
 
 ---
@@ -40,11 +40,7 @@
 
 <p align="center">
   Estou estudando web, Python e automa&ccedil;&atilde;o.<br>
-  Aqui ficam meus projetos da escola, meus testes e um pouco do que eu curto.
-</p>
-
-<p align="center">
-  <img src="./assets/carrd-mood.jpg" width="520" alt="Imagem no estilo do Carrd" />
+  Aqui ficam meus projetos, meus testes e um pouco do que eu vou aprendendo.
 </p>
 
 <p align="center">
@@ -81,7 +77,7 @@
 
 ---
 
-<h3 align="center">em evolucao</h3>
+<h3 align="center">em evolu&ccedil;&atilde;o</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FRONT--END-000000?style=for-the-badge&logo=react&logoColor=b00020" alt="Front-end" />
@@ -91,11 +87,7 @@
 
 ---
 
-<h3 align="center">fora do codigo</h3>
-
-<p align="center">
-  <img src="./assets/carrd-avatar.jpg" width="96" alt="Avatar do Carrd" />
-</p>
+<h3 align="center">fora do c&oacute;digo</h3>
 
 <p align="center">
   Jogos, filmes/s&eacute;ries e m&uacute;sica tamb&eacute;m aparecem por aqui.
