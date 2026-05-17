@@ -2,19 +2,22 @@
   README DE PERFIL - BRENO LOPES
   Visual: dark, vermelho neon, anime profissional.
 
-  Para adicionar seu GIF:
-  1. Crie uma pasta chamada assets.
-  2. Coloque seu arquivo como assets/personagem.gif.
-  3. Se o nome for diferente, troque o src do GIF abaixo.
+  GIF de referência:
+  https://www.pinterest.com/pin/1124703706921847631/
+
+  Para o GitHub carregar sem quebrar:
+  1. Baixe o GIF do Pinterest.
+  2. Crie uma pasta chamada assets.
+  3. Coloque o arquivo como assets/personagem.gif.
 -->
 
 <div align="center">
 
 <!-- GIF PRINCIPAL -->
-<!-- Substitua por um GIF seu de personagem: ./assets/personagem.gif -->
+<!-- GIF de personagem inspirado no pin: https://www.pinterest.com/pin/1124703706921847631/ -->
 <img
   src="./assets/personagem.gif"
-  width="260"
+  width="300"
   alt="GIF de personagem"
 />
 
@@ -98,16 +101,6 @@
       <td><a href="https://github.com/Yuykkk/Pokedex"><strong>Pokédex</strong></a></td>
       <td>Aplicação web para pesquisar Pokémon, consultar informações e visualizar cartas TCG.</td>
       <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
-    </tr>
-    <tr>
-      <td><code>Projeto 02</code></td>
-      <td>Exercício de lógica e estruturação de código.</td>
-      <td><code>Python</code></td>
-    </tr>
-    <tr>
-      <td><code>Projeto 03</code></td>
-      <td>Aplicação em desenvolvimento para praticar front-end.</td>
-      <td><code>JavaScript</code> <code>React</code></td>
     </tr>
   </tbody>
 </table>
