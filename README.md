@@ -11,11 +11,9 @@
   Troque apenas o valor do src abaixo pelo link direto do GIF que você quiser usar.
   Exemplo: src="https://site.com/seu-gif.gif"
 -->
-<img
-  src="https://i.imgur.com/p7beXjh.gif"
-  width="100%"
-  alt="Banner animado"
-/>
+<p align="center">
+  <img src="https://i.imgur.com/p7beXjh.gif" alt="GIF" />
+</p>
 
 <br><br>
 
