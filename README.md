@@ -12,7 +12,7 @@
   Exemplo: src="https://site.com/seu-gif.gif"
 -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100%" height="220"/>
+  <img src="https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif" width="100%" height="220"/>
 </p>
 
 <br><br>
