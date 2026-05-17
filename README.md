@@ -17,18 +17,18 @@
 </p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=E60012&center=true&vCenter=true&width=720&lines=Aprendendo+no+c%C3%B3digo+e+na+pr%C3%A1tica;Projetos+da+escola+e+meus+testes;Front-End%2C+Back-End+e+Python"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=B00020&center=true&vCenter=true&width=720&lines=Aprendendo+no+c%C3%B3digo+e+na+pr%C3%A1tica;Projetos+da+escola+e+meus+testes;Front-End%2C+Back-End+e+Python"
   alt="Typing SVG"
 />
 
 <br><br>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Yuykkk&label=%E2%9C%A6%20VISITAS&color=e60012&style=for-the-badge" alt="Visitas do perfil" />
-  <img src="https://img.shields.io/badge/%E2%97%89-STATUS%20APRENDENDO-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Aprendendo" />
-  <img src="https://img.shields.io/badge/%E2%8C%98-WEB%20%2B%20PYTHON-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Web e Python" />
+  <img src="https://komarev.com/ghpvc/?username=Yuykkk&label=VISITAS&color=b00020&style=for-the-badge" alt="Visitas do perfil" />
+  <img src="https://img.shields.io/badge/STATUS-APRENDENDO-000000?style=for-the-badge&labelColor=000000&logo=target&logoColor=b00020" alt="Aprendendo" />
+  <img src="https://img.shields.io/badge/FOCO-WEB%20%2B%20PYTHON-000000?style=for-the-badge&labelColor=000000&logo=code&logoColor=b00020" alt="Web e Python" />
   <a href="https://guns.lol/yuykk">
-    <img src="https://img.shields.io/badge/%E2%9C%A6-CONTATO-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Contato guns.lol/yuykk" />
+    <img src="https://img.shields.io/badge/CONTATO-000000?style=for-the-badge&labelColor=000000&logo=firefoxbrowser&logoColor=b00020" alt="Contato guns.lol/yuykk" />
   </a>
 </p>
 
@@ -39,8 +39,8 @@
 <h3 align="center">sobre mim</h3>
 
 <p align="center">
-  &#10022; Estou estudando web, Python e automa&ccedil;&atilde;o.<br>
-  &#8961; Aqui ficam meus projetos da escola e alguns testes que fa&ccedil;o enquanto aprendo.
+  Estou estudando web, Python e automa&ccedil;&atilde;o.<br>
+  Aqui ficam meus projetos da escola e alguns testes que fa&ccedil;o enquanto aprendo.
 </p>
 
 ---
@@ -48,17 +48,17 @@
 <h3 align="center">stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%97%86-HTML-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="HTML" />
-  <img src="https://img.shields.io/badge/%E2%97%86-CSS-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="CSS" />
-  <img src="https://img.shields.io/badge/%E2%97%86-JAVASCRIPT-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/%E2%97%86-TYPESCRIPT-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/%E2%97%86-PYTHON-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=b00020" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=b00020" alt="CSS" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=b00020" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=b00020" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=b00020" alt="Python" />
   <br><br>
-  <img src="https://img.shields.io/badge/%E2%97%86-REACT-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="React" />
-  <img src="https://img.shields.io/badge/%E2%97%86-NODE.JS-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Node.js" />
-  <img src="https://img.shields.io/badge/%E2%97%86-GIT-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Git" />
-  <img src="https://img.shields.io/badge/%E2%97%86-GITHUB-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="GitHub" />
-  <img src="https://img.shields.io/badge/%E2%97%86-VS%20CODE-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="VS Code" />
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=b00020" alt="React" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=b00020" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=b00020" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=b00020" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=b00020" alt="VS Code" />
 </p>
 
 ---
@@ -76,9 +76,9 @@
 <h3 align="center">em evolucao</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%8C%81-FRONT--END-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Front-end" />
-  <img src="https://img.shields.io/badge/%E2%8C%81-BACK--END-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Back-end" />
-  <img src="https://img.shields.io/badge/%E2%8C%81-PYTHON-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/FRONT--END-000000?style=for-the-badge&logo=react&logoColor=b00020" alt="Front-end" />
+  <img src="https://img.shields.io/badge/BACK--END-000000?style=for-the-badge&logo=nodedotjs&logoColor=b00020" alt="Back-end" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=b00020" alt="Python" />
 </p>
 
 ---
@@ -87,6 +87,6 @@
 
 <p align="center">
   <a href="https://guns.lol/yuykk">
-    <img src="https://img.shields.io/badge/%E2%9C%A6-guns.lol%2Fyuykk-000000?style=for-the-badge&labelColor=e60012&color=000000" alt="guns.lol/yuykk" />
+    <img src="https://img.shields.io/badge/guns.lol%2Fyuykk-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=b00020" alt="guns.lol/yuykk" />
   </a>
 </p>
