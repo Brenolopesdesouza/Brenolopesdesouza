@@ -3,7 +3,7 @@
   Tema: anime dark profissional, vermelho neon, terminal futurista.
 
   Para usar:
-  1. Troque SEU_USERNAME pelo seu usuário do GitHub.
+  1. Troque yuykk pelo seu usuário real do GitHub, se for diferente.
   2. Se quiser, substitua o banner por uma imagem própria em ./assets/banner.png.
   3. Mantenha o visual limpo: poucas seções, poucos widgets, identidade forte.
 -->
@@ -37,7 +37,7 @@
 
 <!-- BADGES ESSENCIAIS -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=VISITAS&color=ff1744&style=for-the-badge" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=yuykk&label=VISITAS&color=ff1744&style=for-the-badge" alt="Contador de visitas" />
   <img src="https://img.shields.io/badge/Windows-0b0b0f?style=for-the-badge&logo=windows11&logoColor=ff1744" alt="Windows" />
   <img src="https://img.shields.io/badge/VS%20Code-0b0b0f?style=for-the-badge&logo=visualstudiocode&logoColor=ff1744" alt="VS Code" />
   <a href="https://guns.lol/yuykk">
@@ -48,9 +48,9 @@
 <!-- TERMINAL FUTURISTA -->
 <pre>
 &gt; inicializando perfil
-&gt; foco: front-end | back-end | python
-&gt; explorando: ia | automação | ferramentas
-&gt; estética: anime dark | neon vermelho | sci-fi hud
+&gt; foco: desenvolvimento web | python | automação
+&gt; criando: projetos escolares | interfaces | ferramentas
+&gt; objetivo: aprender, praticar e evoluir com projetos reais
 </pre>
 
 </div>
@@ -62,14 +62,14 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-  Estudo desenvolvimento web, Python e automação. Gosto de criar projetos experimentais, interfaces limpas e ferramentas úteis com uma estética futurista, dark e organizada.
+  Estudo desenvolvimento web, Python e automação. Uso este perfil para organizar minha evolução, publicar projetos escolares e transformar estudos em aplicações práticas.
 </p>
 
 <p align="center">
-  <code>aprendizado constante</code> ·
-  <code>código limpo</code> ·
-  <code>projetos próprios</code> ·
-  <code>tecnologia criativa</code>
+  <code>front-end</code> ·
+  <code>back-end</code> ·
+  <code>python</code> ·
+  <code>projetos escolares</code>
 </p>
 
 <!-- DIVISOR NEON -->
@@ -88,24 +88,69 @@
 <!-- DIVISOR NEON -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,45:7f0000,50:ff1744,55:7f0000,100:050505" alt="Divisor vermelho neon" />
 
-<!-- ESTATÍSTICAS ESSENCIAIS -->
+<!-- PROJETOS ESCOLARES -->
+<h2 align="center">Projetos escolares</h2>
+
+<p align="center">
+  Espaço para atividades, estudos e projetos desenvolvidos durante o aprendizado.
+</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Projeto</th>
+      <th>Descrição</th>
+      <th>Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>Projeto escolar 01</code></td>
+      <td>Atividade prática de desenvolvimento web.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+    </tr>
+    <tr>
+      <td><code>Projeto escolar 02</code></td>
+      <td>Exercício com lógica, estruturação e organização de código.</td>
+      <td><code>Python</code></td>
+    </tr>
+    <tr>
+      <td><code>Projeto escolar 03</code></td>
+      <td>Projeto em evolução para praticar front-end e back-end.</td>
+      <td><code>React</code> <code>Node.js</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- DIVISOR NEON -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,50:ff1744,100:050505" alt="Divisor vermelho neon" />
+
+<!-- PRESENÇA NO GITHUB -->
 <h2 align="center">GitHub</h2>
 
-<!-- Troque SEU_USERNAME pelo seu usuário do GitHub -->
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Perfil-em%20evolu%C3%A7%C3%A3o-ff1744?style=for-the-badge&labelColor=0b0b0f&logo=github" alt="Perfil em evolução" />
+  <img src="https://img.shields.io/badge/Projetos-escolares%20e%20estudos-ff1744?style=for-the-badge&labelColor=0b0b0f" alt="Projetos escolares e estudos" />
+</p>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=ff1744&text_color=e5e7eb&icon_color=ff1744&ring_color=ff1744&rank_icon=github"
-  alt="Estatísticas do GitHub"
-/>
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=ff1744&text_color=e5e7eb"
-  alt="Linguagens mais usadas"
-/>
+<!--
+  STATS OPCIONAIS
+  Ative apenas quando souber seu usuário EXATO do GitHub.
+  Troque SEU_USUARIO_GITHUB abaixo e remova os comentários.
 
-</div>
+  <div align="center">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=ff1744&text_color=e5e7eb&icon_color=ff1744&ring_color=ff1744&rank_icon=github"
+      alt="Estatísticas do GitHub"
+    />
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=ff1744&text_color=e5e7eb"
+      alt="Linguagens mais usadas"
+    />
+  </div>
+-->
 
 <!-- DIVISOR NEON -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,50:ff1744,100:050505" alt="Divisor vermelho neon" />
