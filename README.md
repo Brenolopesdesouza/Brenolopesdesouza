@@ -40,13 +40,7 @@
 
 <p align="center">
   Estudo desenvolvimento web, Python e automacao.<br>
-  Gosto de transformar pratica em projeto e deixar cada README com identidade propria.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OBJETIVO-BASE%20SOLIDA-0d1117?style=for-the-badge&logo=target&logoColor=ff1744" alt="Objetivo: base solida" />
-  <img src="https://img.shields.io/badge/RITMO-APRENDIZADO%20DIARIO-0d1117?style=for-the-badge&logo=github&logoColor=ff1744" alt="Aprendizado diario" />
-  <img src="https://img.shields.io/badge/ESTILO-PRETO%20%2B%20VERMELHO-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=ff1744" alt="Estilo preto e vermelho" />
+  Uso este perfil para reunir meus projetos escolares e acompanhar minha evolucao como desenvolvedor.
 </p>
 
 ---
@@ -106,7 +100,3 @@
     <img src="https://img.shields.io/badge/guns.lol%2Fyuykk-ff1744?style=for-the-badge&labelColor=0d1117" alt="guns.lol/yuykk" />
   </a>
 </p>
-
-<div align="center">
-  <sub>black profile | red details | code practice</sub>
-</div>
