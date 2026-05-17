@@ -7,7 +7,7 @@
 
 <!-- BANNER ANIMADO -->
 <p align="center">
-  <img src="https://i.imgur.com/p7beXjh.gif" width="620" alt="Banner animado de digitacao" />
+  <img src="./assets/banner.gif" width="620" alt="Banner animado de digitacao" />
 </p>
 
 <br>
@@ -73,14 +73,11 @@
 
 <p align="center">
   <a href="https://github.com/Yuykkk/Pokedex">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Yuykkk&repo=Pokedex&hide_border=true&bg_color=0d1117&title_color=ff1744&text_color=ffffff&icon_color=ff1744"
-      alt="Repositorio Pokedex"
-    />
+    <img src="https://img.shields.io/badge/POKEDEX-PROJETO%20ESCOLAR-000000?style=for-the-badge&logo=github&logoColor=ff1744" alt="Pokedex - projeto escolar" />
   </a>
-</p>
-
-<p align="center">
+  <br>
+  <sub>Aplicacao web para pesquisar Pokemon e consultar informacoes.</sub>
+  <br>
   <a href="https://github.com/Yuykkk/Pokedex">
     <img src="https://img.shields.io/badge/ABRIR%20REPOSITORIO-ff1744?style=for-the-badge&labelColor=000000&logo=github&logoColor=ff1744" alt="Abrir repositorio" />
   </a>
