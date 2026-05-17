@@ -1,227 +1,339 @@
+<!--
+  PROFILE README - CYBERPUNK MINIMALISTA
+  Troque todos os valores com SEU_USERNAME, SEU_NOME, SEU_EMAIL e SEUS_LINKS.
+  Para um perfil GitHub, este arquivo deve ficar em um repositório com o mesmo nome do seu usuário.
+  Exemplo: github.com/SEU_USERNAME/SEU_USERNAME/blob/main/README.md
+-->
+
 <div align="center">
 
-# AchievementBackup
+<!-- BANNER PRINCIPAL -->
+<!-- Dica: troque o texto abaixo ou substitua por uma imagem própria em assets/banner.png -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0f172a,70:0ea5e9,100:22d3ee&text=SEU%20NOME&fontColor=e0f2fe&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Tools%20%7C%20Experimental%20Software&descAlignY=58&animation=twinkling"
+  alt="Cyberpunk neon profile banner"
+/>
 
-**Backup inteligente de saves, conquistas, estatisticas e dados da Steam para Millennium**
+<!-- NOME + TAGLINE -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=%3E+building+intelligent+systems;%3E+automating+the+boring+parts;%3E+shipping+tools+for+the+future;%3E+turning+ideas+into+software" alt="Typing SVG" />
+</h1>
 
-[![Millennium](https://img.shields.io/badge/Millennium-Compatible-0ea5e9?style=for-the-badge&logo=steam)](https://steambrew.app/)
-[![Python](https://img.shields.io/badge/Backend-Python-ffe800?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
-[![Steam](https://img.shields.io/badge/Steam-Backup-171a21?style=for-the-badge&logo=steam)](https://store.steampowered.com/)
-[![License](https://img.shields.io/badge/License-Source%20Available-red?style=for-the-badge)](license)
+<!-- BADGES DE IDENTIDADE -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Automation-22d3ee?style=for-the-badge&labelColor=020617" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20in%20public-38bdf8?style=for-the-badge&labelColor=020617" alt="Status badge" />
+  <img src="https://img.shields.io/badge/Mode-Terminal%20Driven-0ea5e9?style=for-the-badge&labelColor=020617" alt="Terminal driven badge" />
+</p>
 
-<h3>Feche o jogo. Guarde o momento. Restaure quando precisar.</h3>
-
-AchievementBackup e um plugin para Steam/Millennium criado para proteger progresso local, conquistas, estatisticas, userdata, saves e arquivos relacionados aos jogos. Ele monitora sessoes da Steam, detecta quando jogos iniciam e fecham, e cria backups ou capturas com foco no AppID correto.
-
-Este projeto foi construido a partir da base do **CalyRecall**, de **BruxinCore**, com alteracoes focadas em capturas por jogo, organizacao por conta Steam, restauracao mais segura, suporte a saves externos, API de locais de save e uma interface personalizada.
+<!-- MINI TERMINAL -->
+<pre>
+┌──(SEU_USERNAME@github)-[~/lab]
+└─$ init profile --stack ai automation tools plugins
+      status: online
+      theme : cyberpunk minimal / neon blue / dark terminal
+      output: software that feels sharp, useful and alive
+</pre>
 
 </div>
 
----
+<!-- SEPARADOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:22d3ee,100:020617" alt="Neon separator" />
 
-## O Que Ele Faz
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" width="28" alt="Plug" /> Sobre mim
 
-| Area | Descricao |
-| :--- | :--- |
-| **Backups completos** | Cria backups gerais da Steam, incluindo `userdata`, `appcache/stats`, `depotcache`, `config/lua` e `stplug-in`. |
-| **Capturas por jogo** | Cria snapshots especificos por AppID, com stats, conquistas/cache, userdata, saves, Lua Tools e saves externos do jogo. |
-| **Capturas agrupadas** | A aba Capturas primeiro mostra os jogos; ao abrir um jogo, mostra todas as capturas dele. |
-| **API Ludusavi/PCGamingWiki** | Usa o manifest do Ludusavi para encontrar caminhos reais de save no Windows e Steam. |
-| **Modo Garantia de Saves** | Quando ligado, tambem inclui pastas externas que parecem ser do jogo. Quando desligado, usa apenas caminhos oficiais, Steam e API. |
-| **Identificacao de modo** | Cada captura mostra se foi criada em modo `Seguro` ou `Garantia`. |
-| **Restauracao assistida** | Fecha a Steam, restaura arquivos e abre a Steam novamente para evitar sobrescrita. |
-| **Contas Steam identificadas** | Lista nome da conta e SteamID nos backups, capturas e detalhes. |
-| **Mais informacoes** | Mostra jogos armazenados, AppIDs, categorias de arquivos, contas e quantidade de arquivos. |
-| **Apps ignorados** | Permite ignorar apps de fundo da Steam, como Wallpaper Engine, para nao disparar backup automatico nem captura. |
-| **Hotkey global** | Permite configurar um atalho para backup rapido. |
-| **Temas de cor** | Interface com temas como vermelho, azul, verde e roxo. |
-| **Portabilidade** | Exporta e importa backups em `.zip`. |
+<!-- DESCRIÇÃO SOBRE VOCÊ -->
+<div align="center">
 
----
+Sou um desenvolvedor focado em criar sistemas inteligentes, automações úteis, ferramentas produtivas, plugins e experimentos que aproximam ideias complexas de produtos reais. Gosto de construir software com estética limpa, arquitetura simples, interfaces diretas e uma mentalidade de laboratório: testar rápido, aprender rápido e transformar bons protótipos em soluções sólidas.
 
-## Melhorias Sobre a Base CalyRecall
+`IA` · `Automação` · `DevTools` · `Plugins` · `APIs` · `Software Experimental` · `Open Source`
 
-- Nome e interface visual como **AchievementBackup**.
-- Abas **Backups**, **Capturas** e **Configuracoes**.
-- Capturas separadas dos backups normais.
-- Capturas agrupadas por jogo para evitar listas baguncadas.
-- Backup automatico pos-jogo, disparado depois que o jogo fecha.
-- Suporte a mais de uma sessao de jogo ao mesmo tempo.
-- Espera de seguranca antes de copiar arquivos pos-jogo.
-- Restauracao fechando a Steam completamente e reabrindo depois.
-- Listagem por conta Steam com nome e ID.
-- Tela de detalhes com jogos, AppIDs, contas e tipos de dados armazenados.
-- Suporte a saves externos em `Documents`, `Saved Games`, `AppData`, `LocalLow`, `Roaming` e caminhos do manifest Ludusavi.
-- Botao para controlar o scanner amplo de saves externos.
-- Lista de apps ignorados por AppID, util para apps em segundo plano como Wallpaper Engine.
-- Capturas identificam se foram criadas em modo Seguro ou Garantia.
-- Atualizacao mais suave dos numeros da UI durante backups.
-- Backend HTTP multithread para reduzir travamentos da interface.
-- Correcoes no salvamento de hotkey e configuracoes.
+</div>
 
----
+<!-- PAINEL RÁPIDO -->
+<div align="center">
 
-## Como Funciona
+| Agora | Explorando | Construindo |
+| --- | --- | --- |
+| Sistemas com IA aplicada | Agentes, automações e integrações | Ferramentas para desenvolvedores |
+| Workflows produtivos | Plugins e extensões | Experimentos com APIs modernas |
+| Código limpo e pragmático | Interfaces rápidas e elegantes | Projetos open source |
 
-### 1. Deteccao De Sessao
+</div>
 
-O plugin acompanha jogos em execucao pela Steam e por processos instalados. Quando um jogo inicia, ele registra a sessao daquele AppID. Quando o jogo fecha, ele encerra a sessao real e executa o fluxo configurado.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:0ea5e9,100:020617" alt="Neon separator" />
 
-### 2. Espera Pos-Jogo
+## <img src="https://skillicons.dev/icons?i=python" width="28" alt="Python" /> Tecnologias
 
-Antes de copiar arquivos, o AchievementBackup aguarda a Steam estabilizar escrita local e possivel sincronizacao da Steam Cloud. Isso reduz risco de copiar arquivos incompletos.
+<!-- TECNOLOGIAS PRINCIPAIS - edite a lista de ícones em i= -->
+<div align="center">
 
-### 3. Backup Completo
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,html,css,tailwind,fastapi,flask,django,sqlite,postgres,mongodb,docker,git,github,linux,powershell,vscode&theme=dark&perline=11" alt="Technology icons" />
 
-O backup completo e geral. Ele nao representa apenas o ultimo jogo fechado; ele guarda dados importantes da Steam como um pacote amplo:
+<br />
+<br />
 
-```text
-backups/
-  CalyBackup-2026-05-17_12-26-28/
-    userdata/
-    appcache_stats/
-    depotcache/
-    lua/
-    stplug-in/
-    caly_meta.json
-```
+<!-- BADGES COMPLEMENTARES -->
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=22d3ee" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=22d3ee" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=22d3ee" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=22d3ee" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
 
-### 4. Captura Por Jogo
+</div>
 
-A captura por jogo fica organizada por nome do jogo e data:
+## <img src="https://skillicons.dev/icons?i=vscode" width="28" alt="VS Code" /> Ferramentas favoritas
 
-```text
-backups/
-  GRIS/
-    2026-05-17_12-00/
-      manifest.json
-      stats/
-      achievements/
-      userdata/
-      saves/
-      lua-tools/
-      external-saves/
-```
+<!-- FERRAMENTAS FAVORITAS -->
+<div align="center">
 
-Na interface, a aba **Capturas** agrupa tudo por jogo. Ao clicar em `GRIS`, por exemplo, aparecem apenas as capturas de GRIS.
+<img src="https://skillicons.dev/icons?i=vscode,github,git,docker,linux,windows,powershell,figma,notion,postman,vercel,cloudflare&theme=dark&perline=12" alt="Favorite tools" />
 
-### 5. Saves Externos
+<br />
+<br />
 
-Para capturas, o plugin pode salvar arquivos fora da Steam usando:
+<img src="https://img.shields.io/badge/Cursor-020617?style=for-the-badge&logo=cursor&logoColor=22d3ee" alt="Cursor" />
+<img src="https://img.shields.io/badge/ChatGPT-020617?style=for-the-badge&logo=openai&logoColor=22d3ee" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-020617?style=for-the-badge&logo=githubcopilot&logoColor=22d3ee" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/Terminal-020617?style=for-the-badge&logo=gnometerminal&logoColor=22d3ee" alt="Terminal" />
+<img src="https://img.shields.io/badge/API%20Design-020617?style=for-the-badge&logo=fastapi&logoColor=22d3ee" alt="API Design" />
 
-- caminhos oficiais da Steam;
-- manifest Ludusavi/PCGamingWiki;
-- scanner amplo opcional pelo **Modo Garantia de Saves**.
+</div>
 
-Com o modo Garantia desligado, a captura fica mais precisa. Com ele ligado, ela fica mais agressiva e tenta salvar tambem pastas externas parecidas com o jogo.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:22d3ee,100:020617" alt="Neon separator" />
 
-### 6. Apps Ignorados
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" alt="Chart" /> GitHub analytics
 
-Alguns apps da Steam ficam rodando em segundo plano e nao representam uma sessao real de jogo. Um exemplo comum e o **Wallpaper Engine**.
+<!-- GITHUB STATS -->
+<!-- Troque SEU_USERNAME pelo seu usuário do GitHub em todas as URLs desta seção -->
+<div align="center">
 
-Na aba **Configuracoes**, a lista **Apps ignorados** permite marcar esses AppIDs. Apps ignorados:
+<img
+  height="176"
+  src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github"
+  alt="GitHub stats"
+/>
+<img
+  height="176"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1"
+  alt="Most used languages"
+/>
 
-- nao iniciam sessao monitorada;
-- nao criam backup automatico quando fecham;
-- nao viram alvo automatico de captura;
-- aparecem como ignorados quando detectados pela area de capturas.
+<br />
 
----
+<!-- STREAK STATS -->
+<img
+  width="72%"
+  src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
+  alt="GitHub streak stats"
+/>
 
-## O Que E Salvo
+<br />
 
-AchievementBackup pode salvar:
+<!-- TROPHY -->
+<img
+  width="96%"
+  src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"
+  alt="GitHub trophies"
+/>
 
-- Saves da Steam em `userdata`.
-- Saves em `remote`.
-- `remotecache.vdf`.
-- Estatisticas em `appcache/stats`.
-- Arquivos de conquistas/cache.
-- Arquivos Lua Tools e `stplug-in`.
-- Configuracao global em `Steam/config/lua`.
-- Saves externos por API/manifest em capturas.
-- Saves externos por heuristica quando o Modo Garantia esta ligado.
-- Depot cache em backups completos.
-- Metadata com AppID, nome do jogo, contas, modo da captura e arquivos copiados.
+</div>
 
----
+<!-- ACTIVITY GRAPH -->
+<div align="center">
 
-## Interface
+<img
+  width="96%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000&color=22d3ee&line=38bdf8&point=e0f2fe&area=true&area_color=0ea5e9"
+  alt="GitHub activity graph"
+/>
 
-- **Backups:** lista backups completos, tamanho, data, contas e quantidade de arquivos.
-- **Capturas:** lista jogos com capturas; ao abrir o jogo, lista as capturas daquele jogo.
-- **Configuracoes:** modos de backup, hotkey, temas, apps ignorados, API/scanner de saves e portabilidade.
-- **Mais informacoes:** mostra jogos identificados, AppIDs, contas e categorias salvas.
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:0ea5e9,100:020617" alt="Neon separator" />
 
-## Instalacao Manual
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" alt="Snake" /> Snake animation
 
-> Requisito: Steam com [Millennium](https://steambrew.app/) instalado.
+<!--
+  SNAKE DE COMMITS
+  Para funcionar, crie o workflow explicado no final deste README.
+  Depois disso, estes arquivos serão gerados automaticamente no branch output.
+-->
+<div align="center">
 
-1. Baixe ou clone este repositorio.
-2. Copie a pasta interna `AchievementBackup/` para:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-```text
-Steam/
-  plugins/
-    AchievementBackup/
-```
+</div>
 
-3. Reinicie a Steam.
-4. Abra a Steam e procure o botao do AchievementBackup no canto inferior direito.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" alt="Briefcase" /> Projetos destacados
 
-> Importante: evite manter uma copia antiga do `CalyRecall` ativa ao mesmo tempo, pois duas instancias podem tentar usar a mesma porta local `9999`.
+<!--
+  PROJETOS DESTACADOS
+  Troque REPO_1, REPO_2, REPO_3 e REPO_4 pelos nomes dos seus repositórios.
+  Para remover/adicionar projetos, copie ou delete blocos de imagem.
+-->
+<div align="center">
 
----
+<a href="https://github.com/SEU_USERNAME/REPO_1">
+  <img height="136" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=REPO_1&theme=synthwave&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=38bdf8" alt="Pinned repository 1" />
+</a>
+<a href="https://github.com/SEU_USERNAME/REPO_2">
+  <img height="136" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=REPO_2&theme=synthwave&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=38bdf8" alt="Pinned repository 2" />
+</a>
 
-## Estrutura Do Repositorio
+<br />
 
-```text
-AchievementBackup/
-  README.md
-  license
-  .gitignore
-  AchievementBackup/
-    backend/
-      main.py
-      server.py
-      monitor.py
-      achievement_backup.py
-      hotkey.py
-    frontend/
-    public/
-      index.js
-    webkit/
-    plugin.json
-```
+<a href="https://github.com/SEU_USERNAME/REPO_3">
+  <img height="136" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=REPO_3&theme=radical&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=38bdf8" alt="Pinned repository 3" />
+</a>
+<a href="https://github.com/SEU_USERNAME/REPO_4">
+  <img height="136" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=REPO_4&theme=radical&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=38bdf8" alt="Pinned repository 4" />
+</a>
 
----
+</div>
 
-## Portabilidade
+<!-- LAB / EXPERIMENTOS -->
+<div align="center">
 
-O painel permite exportar todos os backups para um `.zip` e importar novamente depois. Isso e util para formatar o PC, migrar de disco ou manter uma copia externa dos backups.
+### `~/experimental-lab`
 
----
+| Área | O que eu gosto de construir |
+| --- | --- |
+| `ai-agents` | Assistentes, automações inteligentes e pipelines com LLMs |
+| `devtools` | Ferramentas que reduzem atrito no fluxo de desenvolvimento |
+| `plugins` | Extensões, integrações e conectores para produtos reais |
+| `automation` | Scripts, bots e sistemas que economizam tempo |
+| `interfaces` | UIs limpas para tornar sistemas complexos fáceis de usar |
 
-## Limitacoes Conhecidas
+</div>
 
-- A deteccao depende do comportamento da Steam, processos locais e AppIDs instalados.
-- Alguns jogos usam caminhos de save muito especificos.
-- Jogos com sincronizacao agressiva de nuvem podem exigir cuidado na restauracao.
-- Duas versoes do plugin ativas podem causar conflito na porta local `9999`.
-- A interface depende do carregamento correto do Millennium e das superficies da Steam.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:22d3ee,100:020617" alt="Neon separator" />
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="28" alt="Satellite" /> Contato
 
-## Creditos E Licenca
+<!-- CONTATO E REDES SOCIAIS -->
+<!-- Troque os links abaixo pelos seus links reais -->
+<div align="center">
 
-AchievementBackup foi desenvolvido a partir da base do **CalyRecall**, criado por **BruxinCore**.
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
+</a>
+<a href="https://x.com/SEU_X">
+  <img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=22d3ee" alt="X" />
+</a>
+<a href="https://github.com/SEU_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" />
+</a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" />
+</a>
+<a href="https://SEU_PORTFOLIO.com">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22d3ee" alt="Portfolio" />
+</a>
 
-Este repositorio mantem esse credito porque a arquitetura original, a ideia de monitoramento de sessao e parte da estrutura inicial vieram do CalyRecall. Antes de redistribuir publicamente qualquer versao derivada, verifique a licenca original e tenha permissao adequada do autor quando necessario.
+</div>
 
----
+<br />
 
-## Aviso
+<!-- FOOTER -->
+<div align="center">
 
-Este projeto mexe com arquivos locais da Steam e de jogos. Use por sua conta e risco. Teste com jogos nao criticos antes de confiar em qualquer fluxo de restauracao.
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&lines=designing+tools+for+humans+and+machines;clean+systems%2C+sharp+interfaces%2C+useful+automation;always+building+the+next+experiment"
+  alt="Footer typing animation"
+/>
+
+<br />
+<br />
+
+<sub>
+  <strong>SEU_NOME</strong> · AI / Automation / Tools / Plugins / Software Engineering
+</sub>
+
+<br />
+<br />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0ea5e9,100:22d3ee&animation=twinkling"
+  alt="Footer wave"
+/>
+
+</div>
+
+<!--
+  GUIA RÁPIDO DE INSTALAÇÃO
+
+  1. Crie um repositório público com o MESMO nome do seu usuário do GitHub.
+     Exemplo: se seu usuário é neondev, crie github.com/neondev/neondev
+
+  2. Coloque este arquivo na raiz do repositório com o nome README.md.
+
+  3. Troque todos os placeholders:
+     - SEU_USERNAME
+     - SEU_NOME
+     - SEU_EMAIL
+     - SEU_LINKEDIN
+     - SEU_X
+     - SEU_PORTFOLIO.com
+     - REPO_1, REPO_2, REPO_3, REPO_4
+
+  4. Para usar uma imagem própria no banner:
+     - crie uma pasta assets
+     - adicione assets/banner.png
+     - substitua a URL do primeiro <img> por:
+       ./assets/banner.png
+
+  5. Para ativar a snake animation, crie:
+     .github/workflows/snake.yml
+
+     com este conteúdo:
+
+     name: Generate snake animation
+
+     on:
+       schedule:
+         - cron: "0 */12 * * *"
+       workflow_dispatch:
+
+     jobs:
+       generate:
+         permissions:
+           contents: write
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk/svg-only@v3
+             with:
+               github_user_name: SEU_USERNAME
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  6. As animações deste README usam serviços externos:
+     - readme-typing-svg.demolab.com
+     - capsule-render.vercel.app
+     - github-readme-stats.vercel.app
+     - github-profile-trophy.vercel.app
+     - streak-stats.demolab.com
+     - skillicons.dev
+
+  7. Para trocar os temas:
+     - github-readme-stats: theme=tokyonight, radical, synthwave, transparent
+     - trophy: theme=radical, tokyonight, matrix, discord
+     - streak: theme=tokyonight, radical, synthwave
+-->
