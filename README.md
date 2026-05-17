@@ -16,7 +16,7 @@
 <!-- GIF PRINCIPAL -->
 <!-- GIF de personagem inspirado no pin: https://www.pinterest.com/pin/1124703706921847631/ -->
 <img
-  src="[./assets/personagem.gif](https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif)"
+  src="./assets/personagem.gif](https://i.pinimg.com/originals/0c/09/38/0c0938072d97e5103d48483ee2614214.gif"
   width="300"
   alt="GIF de personagem"
 />
